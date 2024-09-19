@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -42,4 +43,9 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
