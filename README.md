@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
+| [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Bit Manipulation
 |  |
