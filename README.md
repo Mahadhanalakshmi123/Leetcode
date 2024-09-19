@@ -36,5 +36,10 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
