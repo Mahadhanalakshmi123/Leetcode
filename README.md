@@ -16,6 +16,7 @@
 | [0415-add-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -72,4 +73,9 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
