@@ -16,6 +16,7 @@
 | [0415-add-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2032-largest-odd-number-in-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0415-add-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
