@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
