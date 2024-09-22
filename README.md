@@ -35,12 +35,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0344-reverse-string) |
@@ -51,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
