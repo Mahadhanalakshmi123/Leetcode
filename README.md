@@ -28,12 +28,14 @@
 | [0344-reverse-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0415-add-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## Sorting
 |  |
 | ------- |
