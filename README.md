@@ -45,6 +45,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0344-reverse-string) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
