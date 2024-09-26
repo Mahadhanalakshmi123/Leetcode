@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0258-add-digits) |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1848-sum-of-unique-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
