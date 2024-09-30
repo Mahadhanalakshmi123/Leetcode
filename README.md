@@ -22,6 +22,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2752-sum-multiples) |
 | [3371-harshad-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3371-harshad-number) |
@@ -103,10 +104,12 @@
 | [0258-add-digits](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
