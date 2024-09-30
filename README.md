@@ -27,6 +27,7 @@
 | [2507-number-of-common-factors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2752-sum-multiples) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3371-harshad-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3371-harshad-number) |
 ## String
 |  |
@@ -46,6 +47,7 @@
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
 | [1848-sum-of-unique-elements](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Sorting
 |  |
 | ------- |
