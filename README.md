@@ -20,6 +20,7 @@
 | [0507-perfect-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -81,6 +82,7 @@
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->
