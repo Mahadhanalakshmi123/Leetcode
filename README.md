@@ -19,6 +19,7 @@
 | [0415-add-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -53,6 +54,7 @@
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1848-sum-of-unique-elements](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
@@ -113,6 +116,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Counting
 |  |
