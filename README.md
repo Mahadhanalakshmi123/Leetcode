@@ -28,6 +28,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3371-harshad-number) |
 ## String
 |  |
@@ -48,6 +49,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
