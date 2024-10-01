@@ -86,6 +86,7 @@
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Memoization
 |  |
 | ------- |
