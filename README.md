@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0344-reverse-string) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
@@ -55,6 +57,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
@@ -81,6 +84,7 @@
 | [0015-3sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
