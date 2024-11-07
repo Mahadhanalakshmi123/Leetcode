@@ -86,6 +86,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Memoization
 |  |
