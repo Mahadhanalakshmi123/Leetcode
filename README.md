@@ -85,6 +85,7 @@
 | [0018-4sum](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
