@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
@@ -38,6 +39,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0179-largest-number) |
@@ -138,6 +140,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0415-add-strings) |
 ## Number Theory
