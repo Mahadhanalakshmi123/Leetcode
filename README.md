@@ -205,4 +205,16 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0148-sort-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
