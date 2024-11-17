@@ -42,6 +42,7 @@
 | [0043-multiply-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
@@ -57,6 +58,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
@@ -112,6 +114,7 @@
 | [0053-maximum-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0268-missing-number) |
@@ -174,6 +177,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -181,6 +185,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -219,4 +224,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
