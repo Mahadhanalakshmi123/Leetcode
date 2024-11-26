@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0202-happy-number) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahadhanalakshmi123/Leetcode/tree/master/0342-power-of-four) |
